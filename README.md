@@ -1,12 +1,33 @@
-# React + Vite
+# Gym Workout Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive Gym Workout Generator built with **React**, **Vite**, and **Tailwind CSS**. This app allows users to select muscle groups and workout goals, then instantly generates a custom workout routine.
 
-Currently, two official plugins are available:
+![Screenshot](![Screenshot (68)](https://github.com/user-attachments/assets/2c4b81ff-1b58-484a-8841-e8f405b6cf09)
+)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
 
-## Expanding the ESLint configuration
+[View Live Demo](https://swoley-fits.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Choose between individual or grouped workout types
+- Select specific muscles to target
+- Set fitness goals: Strength, Hypertrophy, or Endurance
+- Dynamic workout generation logic
+- Beautiful and responsive UI powered by Tailwind CSS
+
+## Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript**
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/rasheed007-hub/Swoley-fit
+cd gym-app
